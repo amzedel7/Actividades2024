@@ -12,3 +12,4 @@ C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debu
 C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\programar.pdb
 C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\programar.genruntimeconfig.cache
 C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\ref\programar.dll
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\programar.sourcelink.json

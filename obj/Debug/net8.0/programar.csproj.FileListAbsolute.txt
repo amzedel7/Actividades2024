@@ -1,0 +1,14 @@
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\bin\Debug\net8.0\programar.exe
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\bin\Debug\net8.0\programar.deps.json
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\bin\Debug\net8.0\programar.runtimeconfig.json
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\bin\Debug\net8.0\programar.dll
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\bin\Debug\net8.0\programar.pdb
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\programar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\programar.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\programar.AssemblyInfo.cs
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\programar.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\programar.dll
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\refint\programar.dll
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\programar.pdb
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\programar.genruntimeconfig.cache
+C:\Users\Pc\Documents\Universidad\SEMESTRE 3\Programacion III\programar\obj\Debug\net8.0\ref\programar.dll
